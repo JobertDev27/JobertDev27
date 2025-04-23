@@ -15,6 +15,6 @@ Styling:
 - Tailwind CSS
 
 Back-end:
--NodeJS
+- NodeJS
 
 
