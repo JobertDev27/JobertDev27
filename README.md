@@ -1,20 +1,25 @@
 # HELLO I'M JOBERT!
 
-I'm currently learning to be a fullstack developer
+I'm a front-end developer.
 
-My current stacks are:
+## My tech stacks:
 
-Front-end:
+### Front-end:
 - HTML
 - Javascript
 - ReactJS
 - Typescript
 
-Styling:
+### Styling:
 - CSS
 - Tailwind CSS
 
-Back-end:
+### Back-end:
 - NodeJS
 
+## Currently learning:
+- PHP
+
+## Contacts:
+### [Linkedin](https://www.linkedin.com/in/jobert-poylan-jr-78b46634a/)
 
