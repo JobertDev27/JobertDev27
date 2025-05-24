@@ -1,6 +1,6 @@
 # HELLO I'M JOBERT!
 
-I'm a front-end developer.
+I'm a fullstack developer.
 
 ## My tech stacks:
 
@@ -16,6 +16,11 @@ I'm a front-end developer.
 
 ### Back-end:
 - NodeJS
+- ExpressJs
+- EJS
+
+### Database:
+- PostgreSQL
 
 ## Currently learning:
 - PHP
