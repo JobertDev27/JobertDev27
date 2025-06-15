@@ -1,5 +1,5 @@
 # HELLO I'M JOBERT!
-I'm a full stack developer and hobbyist gamedev, I specialize in ReactJS, ExpressJS, NodeJS and PostgreSQL.
+I'm a full stack developer and hobbyist gamedev, I specialize in ReactJS, ExpressJS, NodeJS, NodeJS and PostgreSQL.
 
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,express,next,postgresql,figma,godot)](https://skillicons.dev) 
