@@ -2,7 +2,7 @@
 I'm a full stack developer and hobbyist gamedev, I specialize in ReactJS, ExpressJS, NodeJS and PostgreSQL.
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,express,postgresql,figma,godot)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nodejs,express,next,postgresql,figma,godot)](https://skillicons.dev) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JobertDev27&show_icons=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=JobertDev27&theme=tokyonight)](https://git.io/streak-stats)
