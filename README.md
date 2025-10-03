@@ -3,7 +3,7 @@ Upcoming fullstack developer and hobbyist gamedev, specialize in MERN stack crea
 
 ## SKILLS
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,postgresql,java,python)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,postgresql)](https://skillicons.dev) 
 
 ### Frameworks and Libraries:
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,tailwind,express,next)](https://skillicons.dev) 
