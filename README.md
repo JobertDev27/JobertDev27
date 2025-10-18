@@ -1,5 +1,5 @@
 # HELLO I'M JOBERT!
-Upcoming fullstack developer and hobbyist gamedev, specialize in MERN stack creating beatiful, efficient and minimal websites.
+Full-stack developer doing gamedev on the side
 
 ## SKILLS
 ### Programming Languages:
