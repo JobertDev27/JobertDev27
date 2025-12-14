@@ -1,17 +1,20 @@
 # HELLO I'M JOBERT!
-Full-stack developer doing gamedev on the side
+Full-stack developer doing gamedev as a hobby.
 
-## SKILLS
-### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,postgresql)](https://skillicons.dev) 
+## About Me
+I'm a full-stack dev based at the philippines, if you want to see my featured works you can find them at my [portfolio](https://jobertdev.netlify.app). I also do gamedev as a hobby, you can find my games at [Itch.io](https://suspicious-black-van.itch.io/).
 
-### Frameworks and Libraries:
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,tailwind,express,next)](https://skillicons.dev) 
+## My Stack
+Currently I mainly use React with Typescript, Node with Express and PostgresSql but I also have knowledge in flask and Next.
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,godot,blender)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,flask,next)](https://skillicons.dev) 
+-
+For design and planning I mainly use figma and notion.
 
+[![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev) 
 
-## You can also find me at:
-<a href="https://www.linkedin.com/in/jobert-poylan-jr-78b46634a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## Hobby Stack
+Tools and software I use for my hobby aren't always the same per game but this is what I mainly use.
+
+[![My Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev) 
 
