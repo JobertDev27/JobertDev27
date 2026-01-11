@@ -5,9 +5,9 @@ Full-stack developer doing gamedev as a hobby.
 I'm a full-stack dev based at the philippines, if you want to see my featured works you can find them at my [portfolio](https://jobertdev.netlify.app). I also do gamedev as a hobby, you can find my games at [Itch.io](https://suspicious-black-van.itch.io/).
 
 ## My Stack
-Currently I mainly use React with Typescript, Node with Express and PostgresSql but I also have knowledge in flask and Next.
+Currently I mainly use and excel at React with Typescript, Node with Express, PostgresSql and NextJS.
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,flask,next)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,postgresql,next)](https://skillicons.dev) 
 -
 For design and planning I mainly use figma and notion.
 
